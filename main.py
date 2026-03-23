@@ -1,1 +1,1 @@
-print("Hola mundo - proyecto de opciones")
+print("Hola mundo")
